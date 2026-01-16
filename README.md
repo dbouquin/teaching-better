@@ -1,2 +1,2 @@
-# making_better_demos
+# Improving my demos and tutorials
 Refining how I create and maintain educational materials
